@@ -5,7 +5,7 @@ This project focuses on detecting **water bodies on land** using **Machine Learn
 
 ## 📂 Repository Contents
 - 📄 **Report**: Detailed documentation of the project.
-- 🖼 **Dataset**: Images used for training and testing.
+- 🖼 **Dataset**: Access the curated training and testing images **[here](https://drive.google.com/drive/folders/1_dVsHRunM2wzLTxDiX7RG8WyVNrtdvak?usp=sharing)**.
 - 📝 **Code**: Available **upon request**.
 
 ## 🚀 Methodology
